@@ -12,3 +12,5 @@ VSCODE設定より、Markdown > Marp:Themesに下記を追加する
 ```
 https://cunhapaulo.github.io/style/freud.css
 ```
+## 画像
+ロゴ画像は```.images```に格納する
