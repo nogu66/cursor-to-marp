@@ -41,13 +41,6 @@ CursorのAIアシスタントを使用して、MarkdownファイルからMarpス
    - 自動的に`YYYYMMDD_タイトル.md`形式でスライドが生成されます
    - ※1でファイル名を変更している場合は任意のものに変更すること
 
-## スタイル設定（デフォルト）
-
-- フォント：'Hiragino Sans'と'Noto Sans CJK JP'
-- スライドサイズ：1280px
-- ヘッダー：右上にロゴ画像を配置
-- フッター：著作権表示
-
 ## 注意事項
 
 1. 画像の配置
@@ -61,7 +54,3 @@ CursorのAIアシスタントを使用して、MarkdownファイルからMarpス
 3. 日本語対応
    - フォントは'Hiragino Sans'と'Noto Sans CJK JP'を使用
    - 文字化けが発生する場合はフォントの確認を
-
-## ライセンス
-
-Copyright (C) ABC inc., All Rights Reserved.
