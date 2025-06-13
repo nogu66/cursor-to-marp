@@ -28,7 +28,7 @@ CursorのAIアシスタントを使用して、MarkdownファイルからMarpス
    - ※mdファイルの名前は任意のものでも構いません
 
 2. スライド生成ルールの適用
-   - CursorのAIチャットに「slidemarprules」を設定
+   - CursorのAIチャットの@rulesにて「slidemarprules」を設定
    - これにより、以下のルールが自動的に適用されます：
      - テンプレートの使用
      - 文字数制限
