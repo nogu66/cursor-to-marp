@@ -27,8 +27,31 @@ style: |
     background-size: 100%;
     background-repeat: no-repeat;
   }
+  section.main h1 {
+    position: absolute;
+
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+  }
+   section.main h2 {
+    position: absolute;
+    top: 10%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+  }
+  section.main p {
+    position: absolute;
+    top: %;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+  }
   h1 {
     font-size: 42px;
+    top: 15%;
+    left: 20%;
   }
   h2 {
     font-size: 36px;
@@ -53,6 +76,7 @@ style: |
 3. **ううう**
 
 ---
+<!-- _class: main -->
 
 # あああ
 ### hogehoge
